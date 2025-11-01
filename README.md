@@ -68,5 +68,5 @@ By using the Application, you are consenting to the processing of your informati
 
 
 Contact Us
-If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at erasil.er94@gmail.com.
+If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at e.erkin@janapost.kz.
 
