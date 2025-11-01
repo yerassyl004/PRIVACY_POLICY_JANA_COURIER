@@ -9,8 +9,6 @@ By using the Application, you agree to the collection and use of information in 
 
 The Application may collect certain information automatically when you download and use it. This may include:
 
-Your device’s Internet Protocol (IP) address
-
 Information about your interactions with the Application (pages visited, duration of use, timestamps)
 
 Information about your mobile device (operating system and version)
