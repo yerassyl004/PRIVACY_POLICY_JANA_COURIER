@@ -1,72 +1,101 @@
 Privacy Policy
-This privacy policy applies to the Jana Courier app (hereby referred to as "Application") for mobile devices that was created by Jana Post (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
 
+Effective Date: November 1, 2025
 
-Information Collection and Use
-The Application collects information when you download and use it. This information may include information such as
+This Privacy Policy applies to the Jana Courier mobile application (hereinafter referred to as the “Application”), developed by Jana Post (hereinafter referred to as the “Service Provider”) and provided as a free service.
+By using the Application, you agree to the collection and use of information in accordance with this Privacy Policy.
 
-Your device's Internet Protocol address (e.g. IP address)
-The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
-The time spent on the Application
-The operating system you use on your mobile device
+1. Information Collection and Use
 
-The Application collects your device's location, which helps the Service Provider determine your approximate geographical location and make use of in below ways:
+The Application may collect certain information automatically when you download and use it. This may include:
 
-Geolocation Services: The Service Provider utilizes location data to provide features such as personalized content, relevant recommendations, and location-based services.
-Analytics and Improvements: Aggregated and anonymized location data helps the Service Provider to analyze user behavior, identify trends, and improve the overall performance and functionality of the Application.
-Third-Party Services: Periodically, the Service Provider may transmit anonymized location data to external services. These services assist them in enhancing the Application and optimizing their offerings.
+Your device’s Internet Protocol (IP) address
 
-The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
+Information about your interactions with the Application (pages visited, duration of use, timestamps)
 
+Information about your mobile device (operating system and version)
 
-For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information, including but not limited to e.erkin@janapost.kz. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
+Your device’s location data
 
+The Service Provider uses this information to:
 
-Third Party Access
-Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
+Provide Geolocation Services: Enable features such as location tracking for courier tasks, delivery management, and branch coordination.
 
+Analytics and Improvement: Analyze aggregated and anonymized data to identify usage trends and improve app performance and reliability.
 
-Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
+Third-Party Services: Transmit anonymized data to trusted third-party services (listed below) that assist in app analytics and performance optimization.
+
+2. Personal Information
+
+For certain features, you may be asked to provide personally identifiable information such as an email address (e.g., e.erkin@janapost.kz
+).
+This information is securely retained and used only for:
+
+Account verification and authentication
+
+Communication related to important updates, service notices, or support
+
+Internal purposes consistent with this Privacy Policy
+
+The Service Provider does not sell, rent, or share your personal data for marketing purposes.
+
+3. Third-Party Services
+
+The Application uses third-party services that have their own privacy policies regarding data handling.
+You can review their privacy policies at the links below:
 
 Google Analytics for Firebase
+
 Firebase Crashlytics
 
-The Service Provider may disclose User Provided and Automatically Collected Information:
+Only aggregated, anonymized data is periodically shared with these providers to help improve the Application’s functionality and reliability.
 
-as required by law, such as to comply with a subpoena, or similar legal process;
-when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
-with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
+4. Data Sharing and Disclosure
 
-Opt-Out Rights
-You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
+The Service Provider may disclose user information only in the following cases:
 
+Legal requirements: To comply with applicable laws, subpoenas, or government requests.
 
-Data Retention Policy
-The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at e.erkin@janapost.kz and they will respond in a reasonable time.
+Protection of rights and safety: When necessary to protect the Service Provider’s rights, ensure user safety, investigate fraud, or respond to lawful requests.
 
+Service providers: To trusted partners working on behalf of the Service Provider, who are contractually obligated to handle data securely and only for specified purposes.
 
-Children
-The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
+5. Opt-Out Rights
 
+You can stop all data collection by uninstalling the Application.
+Uninstallation can be done using the standard process available on your mobile device or app store.
 
-The Application does not address anyone under the age of 13. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. In the case the Service Provider discover that a child under 13 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider so that they will be able to take the necessary actions.
+6. Data Retention Policy
 
+The Service Provider will retain user-provided data as long as you use the Application and for a reasonable period thereafter.
+If you would like your personal data deleted, please contact e.erkin@janapost.kz
+, and your request will be processed within a reasonable time.
 
-Security
-The Service Provider is concerned about safeguarding the confidentiality of your information. The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
+7. Children’s Privacy
 
+The Application is not intended for children under the age of 13.
+The Service Provider does not knowingly collect or solicit personal data from minors.
+If a parent or guardian becomes aware that a child has provided personal information, please contact the Service Provider so that the data can be deleted immediately.
 
-Changes
-This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
+8. Security
 
+The Service Provider values your trust and is committed to safeguarding your data.
+Appropriate physical, electronic, and procedural security measures are implemented to protect against unauthorized access, disclosure, or destruction of information processed and maintained by the Application.
 
-This privacy policy is effective as of 2025-11-01
+9. Changes to This Privacy Policy
 
+This Privacy Policy may be updated periodically.
+Any updates will be posted on this page with a revised Effective Date.
+You are encouraged to review this Privacy Policy regularly. Continued use of the Application after any updates constitutes acceptance of the revised terms.
 
-Your Consent
-By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by us.
+10. Contact Us
 
+If you have any questions or concerns about this Privacy Policy or the handling of your data, please contact us at:
 
-Contact Us
-If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at e.erkin@janapost.kz.
+Email: info@janapost.kz
 
+Company: Jana Post
+Address:
+Қалқаман-2 шағын ауданы,
+Қарақулова көш., 40 үй, 4 этаж,
+050006, Kazakhstan
